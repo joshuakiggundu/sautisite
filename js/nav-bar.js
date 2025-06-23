@@ -121,17 +121,20 @@ class CommonNavBar extends HTMLElement {
 
                                             <h6 class="mil-muted mil-mb-30">Uganda</h6>
 
-                                            <p class="mil-light-soft mil-up">Nakawa<span class="mil-no-wrap"> +256
-                                                    757532618</span></p>
+                                            <p class="mil-light-soft mil-up">Nakawa
+                                            <span class="mil-no-wrap"> +256776007962</span>
+                                            <span class="mil-no-wrap"> +256741936179</span>
+
+                                            </p>
 
                                         </div>
-                                        <!-- <div class="col-lg-4 mil-mb-60">
+                                        <div class="col-lg-4 mil-mb-60">
 
                                             <h6 class="mil-muted mil-mb-30">Innovation hub</h6>
 
-                                            <p class="mil-light-soft">Leehove 40, 2678 MC De Lier, Netherlands <span class="mil-no-wrap">+31 174 705 811</span></p>
+                                            <p class="mil-light-soft">Kampala, Uganda, Nakawa New Portbell Road</span></p>
 
-                                        </div> -->
+                                        </div> 
                                     </div>
                                 </div>
                             </div>

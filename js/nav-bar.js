@@ -119,9 +119,9 @@ class CommonNavBar extends HTMLElement {
 
                                         <div class="col-lg-4 mil-mb-60">
 
-                                            <h6 class="mil-muted mil-mb-30">Uganda</h6>
+                                            <h6 class="mil-muted mil-mb-30">Contacts</h6>
 
-                                            <p class="mil-light-soft mil-up">Nakawa
+                                            <p class="mil-light-soft mil-up">
                                             <span class="mil-no-wrap"> +256776007962</span>
                                             <span class="mil-no-wrap"> +256741936179</span>
 
